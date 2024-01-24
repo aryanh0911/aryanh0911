@@ -33,12 +33,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
-
-<br> <br> <br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanh0911" alt="aryanh0911" /></a> </p>
-
-<br> <br>
  
 
 
